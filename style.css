@@ -1,5 +1,5 @@
 body {
-  font-family: Roboto; sans-serif;
+  font-family: "Roboto", sans-serif;
   color: #2E2F42;
   line-height: 1.6;
   font-size: 16px;
@@ -62,7 +62,7 @@ h1 {
   
 }
 
-.background {
+.section-one {
   background-color: #2E2F42;
   color: #FFFFFF;
 }
