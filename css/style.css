@@ -111,13 +111,13 @@ letter-spacing: 0.02em  ;
 
 .header-third {
 font-weight: 500;
-font-size: 20px;
+font-size:  16px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 }
 
-section-two .section-two-list .section-two-paragraph {
+.section-two .section-two-list .section-two-paragraph {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#434455;
@@ -130,6 +130,12 @@ section-two .section-two-list .section-two-paragraph {
 
 .ourteamlist >li {
   background-color: #FFFFFF;
+}
+
+.ourteam .ourteamlist .section-two-paragraph {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
 
 .header-section-two {
